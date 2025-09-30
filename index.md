@@ -2,14 +2,16 @@
 layout: default
 ---
 
+# About Me
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to CCS Lab page](https://ccs-lab.github.io/).
+![Profile](/assets/img/mylogo.png)
+
+Hello! I am Hyeonmin Amber Lee.  
+I study computational clinical science and decision-making.
+
+[Link to CCS Lab page](https://ccs-lab.github.io/).  
 [Link to SNU Psychology](https://psych.snu.ac.kr/).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Project_Minecraft
 
