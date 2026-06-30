@@ -1,6 +1,6 @@
 title: Hyeonmin (Amber) Lee
 logo: /assets/img/mylogo.png
 description: 'Welcome to Hyeonmin Amber Lee''s Homepage!'
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
