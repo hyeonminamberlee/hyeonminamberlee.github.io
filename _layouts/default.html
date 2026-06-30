@@ -23,13 +23,8 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ '/assets/pdf/CV_HyeonminAmberLee' | relative_url }}">Download My CV (PDF)</a></p>
-        {% endif %}
-
         <p class="view">
-          <a href="https://drive.google.com/file/d/1y8dRf9X935lEqNY2hCi8t571dBlWIhdP/view?usp=drive_link" 
-             target="_blank">Download My CV (PDF)</a>
+          <a href="{{ '/assets/pdf/CV_HyeonminAmberLee.pdf' | relative_url }}">Download My CV (PDF)</a>
         </p>
 
         {% if site.show_downloads %}
