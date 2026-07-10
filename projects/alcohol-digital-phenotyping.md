@@ -27,6 +27,7 @@ Do day-level computational markers provide information about real-world alcohol-
 
 ## Output
 
-Manuscript under review. PsyArXiv preprint available.
+Manuscript under review.  
+PsyArXiv preprint: [https://doi.org/10.31234/osf.io/he7rn_v1](https://doi.org/10.31234/osf.io/he7rn_v1)
 
 [← Back to homepage](/)
