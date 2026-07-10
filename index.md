@@ -6,9 +6,9 @@ layout: default
 
 Hello! I am Hyeonmin Amber Lee, a post-master research assistant in the [Computational Clinical Science Laboratory (CCSL)](https://ccs-lab.github.io/) at [Seoul National University](https://en.snu.ac.kr/index.html).
 
-I use computational models, behavioral tasks, and real-world monitoring data to investigate decision-making mechanisms relevant to psychopathology. I am especially interested in how learning, valuation, exploration, and behavioral control are shaped by clinically relevant states such as craving, withdrawal, stress, and negative affect.
+I use **computational models, behavioral tasks, and real-world monitoring data** to investigate **decision-making mechanisms relevant to psychopathology**. I am especially interested in how **learning, valuation, exploration, and behavioral control** are shaped by clinically relevant states such as craving, withdrawal, stress, and negative affect.
 
-My current work applies this approach to alcohol use, nicotine abstinence, naturalistic decision-making, and VR-assisted intervention for social anxiety. Building on these experiences, I hope to study how internal states and environmental contexts jointly shape maladaptive decision policies. Ultimately, I aim to develop computational frameworks that can measure, simulate, and inform personalized interventions for maladaptive behavior.
+My current work applies this approach to **alcohol use, nicotine abstinence, naturalistic decision-making, and VR-assisted intervention for social anxiety**. Building on these experiences, I hope to study how **internal states and environmental contexts jointly shape maladaptive decision policies**. Ultimately, I aim to develop computational frameworks that can **measure, simulate, and inform personalized interventions** for maladaptive behavior.
 
 I received my M.A. in Clinical Psychology from Seoul National University and am currently preparing to apply to Ph.D. programs in psychology, neuroscience, and related fields.
 
