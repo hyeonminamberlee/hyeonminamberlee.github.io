@@ -83,11 +83,11 @@
 
 /* Project cards */
 
-.project-card {
+a.project-card {
   display: flex;
-  gap: 18px;
-  align-items: flex-start;
-  margin: 28px 0;
+  align-items: center;
+  gap: 22px;
+  margin: 24px 0;
   padding: 18px;
   border: 1px solid #e5e5e5;
   border-radius: 12px;
@@ -97,44 +97,58 @@
   transition: box-shadow 0.15s ease, transform 0.15s ease;
 }
 
-.project-card:hover {
+a.project-card:hover {
   text-decoration: none;
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
   transform: translateY(-2px);
 }
 
-.project-img {
-  width: 200px;
+.project-thumb {
+  width: 220px;
   max-width: 38%;
   height: auto;
-  border-radius: 10px;
-  object-fit: cover;
+  border-radius: 8px;
+  object-fit: contain;
+  flex-shrink: 0;
 }
 
-.project-text h2 {
-  margin-top: 0;
-  margin-bottom: 8px;
-  font-size: 1.25em;
+.project-info {
+  flex: 1;
 }
 
-.project-text p {
-  margin-bottom: 8px;
+.project-info h2 {
+  margin: 0 0 12px 0;
+  font-size: 1.2em;
+  line-height: 1.2;
 }
 
-.project-tags {
-  font-size: 0.9em;
-  color: #666666;
+.project-keywords {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
 }
+
+.project-keywords span {
+  display: inline-block;
+  padding: 5px 9px;
+  border-radius: 999px;
+  background: #f3f3f3;
+  font-size: 0.82em;
+  color: #555555;
+  line-height: 1.2;
+}
+
+/* Mobile layout */
 
 @media screen and (max-width: 600px) {
-  .project-card {
+  a.project-card {
     display: block;
   }
 
-  .project-img {
+  .project-thumb {
     width: 100%;
     max-width: 100%;
-    margin-bottom: 12px;
+    margin-bottom: 14px;
   }
 }
 

@@ -23,43 +23,55 @@ My current work combines computational modeling, immersive behavioral tasks, sma
 # Selected Projects
 
 <a class="project-card" href="/projects/minecraft/">
-  <img src="/assets/img/project_minecraft.png" alt="Minecraft-based naturalistic decision-making task" class="project-img">
+  <img
+    src="/assets/img/project_minecraft.png"
+    alt="Minecraft-based naturalistic decision-making task"
+    class="project-thumb"
+  >
 
-  <div class="project-text">
+  <div class="project-info">
     <h2>Naturalistic Decision-Making in a Minecraft-Based Environment</h2>
-    <p>
-      I developed and analyzed a Minecraft-based 3D multi-armed bandit task designed to examine how nicotine abstinence is associated with value-guided exploration, movement, and decision-making in a naturalistic environment.
-    </p>
-    <p class="project-tags">
-      reinforcement learning · exploration–exploitation · movement cost · nicotine abstinence
-    </p>
+    <div class="project-keywords">
+      <span>reinforcement learning</span>
+      <span>exploration–exploitation</span>
+      <span>movement cost</span>
+      <span>nicotine abstinence</span>
+    </div>
   </div>
 </a>
 
 <a class="project-card" href="/projects/alcohol-digital-phenotyping/">
-  <img src="/assets/img/project_coharu.png" alt="Smartphone-based monitoring study of alcohol use" class="project-img">
+  <img
+    src="/assets/img/project_coharu.png"
+    alt="Smartphone-based monitoring study of alcohol use"
+    class="project-thumb"
+  >
 
-  <div class="project-text">
+  <div class="project-info">
     <h2>Daily Alcohol Use, Computational Markers, and Digital Phenotyping</h2>
-    <p>
-      I analyze 28-day smartphone-based monitoring data from adults with alcohol use disorder to examine how daily fluctuations in delay discounting and multimodal digital measures relate to nighttime drinking.
-    </p>
-    <p class="project-tags">
-      delay discounting · EMA · passive sensing · alcohol use disorder
-    </p>
+    <div class="project-keywords">
+      <span>delay discounting</span>
+      <span>EMA</span>
+      <span>passive sensing</span>
+      <span>alcohol use disorder</span>
+    </div>
   </div>
 </a>
 
 <a class="project-card" href="/projects/vr-social-anxiety/">
-  <img src="/assets/img/project_vr.png" alt="VR-assisted group CBT program for social anxiety" class="project-img">
+  <img
+    src="/assets/img/project_vr.jpeg"
+    alt="VR-assisted group CBT program for social anxiety"
+    class="project-thumb"
+  >
 
-  <div class="project-text">
+  <div class="project-info">
     <h2>VR-Assisted Intervention for Social Anxiety</h2>
-    <p>
-      I helped design and administer a 5-week VR-assisted group CBT program for college students with social anxiety, integrating virtual-environment exposure exercises, clinical questionnaires, and wearable-derived heart-rate and heart-rate-variability measures.
-    </p>
-    <p class="project-tags">
-      virtual reality · social anxiety · CBT · wearable physiology
-    </p>
+    <div class="project-keywords">
+      <span>virtual reality</span>
+      <span>social anxiety</span>
+      <span>CBT</span>
+      <span>wearable physiology</span>
+    </div>
   </div>
 </a>
