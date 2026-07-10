@@ -6,7 +6,7 @@ permalink: /projects/vr-social-anxiety/
 
 # VR-Assisted Intervention for Social Anxiety
 
-<img src="/assets/img/project_vr.png" alt="VR-assisted group CBT program for social anxiety" class="project-full-img">
+<img src="/assets/img/project_vr.jpeg" alt="VR-assisted group CBT program for social anxiety" class="project-full-img">
 
 ## Overview
 
