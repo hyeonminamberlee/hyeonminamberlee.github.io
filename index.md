@@ -6,9 +6,11 @@ layout: default
 
 Hello! I am Hyeonmin Amber Lee, a post-master research assistant in the [Computational Clinical Science Laboratory (CCSL)](https://ccs-lab.github.io/) at [Seoul National University](https://en.snu.ac.kr/index.html).
 
-I investigate how computational mechanisms of decision-making, particularly exploration–exploitation and delay discounting, relate to substance use in naturalistic behavior and daily life.
+I use computational models, behavioral tasks, and real-world monitoring data to investigate decision-making mechanisms relevant to psychopathology. I am especially interested in how learning, valuation, exploration, and behavioral control are shaped by clinically relevant states such as craving, withdrawal, stress, and negative affect.
 
-My current work combines computational modeling, immersive behavioral tasks, smartphone-based monitoring data, and clinical measures to identify decision processes associated with alcohol use and nicotine abstinence. I received my M.A. in Clinical Psychology from Seoul National University and am currently preparing to apply to Ph.D. programs in psychology, neuroscience, and related fields.
+My current work applies this approach to alcohol use, nicotine abstinence, naturalistic decision-making, and VR-assisted intervention for social anxiety. Building on these experiences, I hope to study how internal states and broader social contexts, including scarcity, stigma, and social adversity, jointly shape maladaptive decision policies. Ultimately, I aim to develop computational frameworks that can measure, simulate, and inform personalized interventions for maladaptive behavior.
+
+I received my M.A. in Clinical Psychology from Seoul National University and am currently preparing to apply to Ph.D. programs in psychology, neuroscience, and related fields.
 
 ## Research Interests
 
@@ -29,7 +31,7 @@ My current work combines computational modeling, immersive behavioral tasks, sma
     <div class="project-keywords">
       <span>reinforcement learning</span>
       <span>exploration–exploitation</span>
-      <span>movement cost</span>
+      <span>naturalistic paradigm</span>
       <span>nicotine abstinence</span>
     </div>
   </div>
@@ -56,7 +58,6 @@ My current work combines computational modeling, immersive behavioral tasks, sma
       <span>virtual reality</span>
       <span>social anxiety</span>
       <span>CBT</span>
-      <span>wearable physiology</span>
     </div>
   </div>
 </div>
