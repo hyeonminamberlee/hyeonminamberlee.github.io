@@ -22,13 +22,8 @@ My current work combines computational modeling, immersive behavioral tasks, sma
 
 # Selected Projects
 
-<a class="project-card" href="/projects/minecraft/">
-  <img
-    src="/assets/img/project_minecraft.png"
-    alt="Minecraft-based naturalistic decision-making task"
-    class="project-thumb"
-  >
-
+<div class="project-card" onclick="location.href='/projects/minecraft/'">
+  <img src="/assets/img/project_minecraft.png" alt="Minecraft-based naturalistic decision-making task" class="project-thumb">
   <div class="project-info">
     <h2>Naturalistic Decision-Making in a Minecraft-Based Environment</h2>
     <div class="project-keywords">
@@ -38,15 +33,10 @@ My current work combines computational modeling, immersive behavioral tasks, sma
       <span>nicotine abstinence</span>
     </div>
   </div>
-</a>
+</div>
 
-<a class="project-card" href="/projects/alcohol-digital-phenotyping/">
-  <img
-    src="/assets/img/project_coharu.png"
-    alt="Smartphone-based monitoring study of alcohol use"
-    class="project-thumb"
-  >
-
+<div class="project-card" onclick="location.href='/projects/alcohol-digital-phenotyping/'">
+  <img src="/assets/img/project_coharu.png" alt="Smartphone-based monitoring study of alcohol use" class="project-thumb">
   <div class="project-info">
     <h2>Daily Alcohol Use, Computational Markers, and Digital Phenotyping</h2>
     <div class="project-keywords">
@@ -56,15 +46,10 @@ My current work combines computational modeling, immersive behavioral tasks, sma
       <span>alcohol use disorder</span>
     </div>
   </div>
-</a>
+</div>
 
-<a class="project-card" href="/projects/vr-social-anxiety/">
-  <img
-    src="/assets/img/project_vr.jpeg"
-    alt="VR-assisted group CBT program for social anxiety"
-    class="project-thumb"
-  >
-
+<div class="project-card" onclick="location.href='/projects/vr-social-anxiety/'">
+  <img src="/assets/img/project_vr.jpeg" alt="VR-assisted group CBT program for social anxiety" class="project-thumb">
   <div class="project-info">
     <h2>VR-Assisted Intervention for Social Anxiety</h2>
     <div class="project-keywords">
@@ -74,4 +59,4 @@ My current work combines computational modeling, immersive behavioral tasks, sma
       <span>wearable physiology</span>
     </div>
   </div>
-</a>
+</div>

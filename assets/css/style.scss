@@ -83,7 +83,7 @@
 
 /* Project cards */
 
-a.project-card {
+.project-card {
   display: flex;
   align-items: center;
   gap: 22px;
@@ -92,13 +92,11 @@ a.project-card {
   border: 1px solid #e5e5e5;
   border-radius: 12px;
   background: #ffffff;
-  color: inherit;
-  text-decoration: none;
+  cursor: pointer;
   transition: box-shadow 0.15s ease, transform 0.15s ease;
 }
 
-a.project-card:hover {
-  text-decoration: none;
+.project-card:hover {
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
   transform: translateY(-2px);
 }
@@ -138,10 +136,8 @@ a.project-card:hover {
   line-height: 1.2;
 }
 
-/* Mobile layout */
-
 @media screen and (max-width: 600px) {
-  a.project-card {
+  .project-card {
     display: block;
   }
 
