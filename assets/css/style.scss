@@ -9,3 +9,122 @@
   border-radius: 50%; /* 동그랗게 */
   box-shadow: 0 4px 12px rgba(0,0,0,0.3); /* 그림자 */
 }
+
+/* Project cards */
+
+.project-card {
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+  margin: 28px 0;
+  padding: 18px;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  background: #ffffff;
+}
+
+.project-img {
+  width: 180px;
+  max-width: 35%;
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.project-text h2 {
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 1.25em;
+}
+
+.project-text p {
+  margin-bottom: 8px;
+}
+
+.project-tags {
+  font-size: 0.9em;
+  color: #666666;
+}
+
+/* Mobile layout */
+
+@media screen and (max-width: 600px) {
+  .project-card {
+    display: block;
+  }
+
+  .project-img {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 12px;
+  }
+}
+
+/* Profile links */
+
+.profile-links {
+  margin: 18px 0 24px 0;
+}
+
+.profile-links a {
+  display: inline-block;
+  margin: 0 8px 8px 0;
+  padding: 6px 12px;
+  border: 1px solid #d6d6d6;
+  border-radius: 999px;
+  font-size: 0.9em;
+  text-decoration: none;
+}
+
+.profile-links a:hover {
+  border-color: #777777;
+  text-decoration: none;
+}
+
+/* Project cards */
+
+.project-card {
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+  margin: 28px 0;
+  padding: 18px;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  background: #ffffff;
+}
+
+.project-img {
+  width: 180px;
+  max-width: 35%;
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.project-text h2 {
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 1.25em;
+}
+
+.project-text p {
+  margin-bottom: 8px;
+}
+
+.project-tags {
+  font-size: 0.9em;
+  color: #666666;
+}
+
+@media screen and (max-width: 600px) {
+  .project-card {
+    display: block;
+  }
+
+  .project-img {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 12px;
+  }
+}

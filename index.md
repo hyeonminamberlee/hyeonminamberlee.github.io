@@ -4,32 +4,63 @@ layout: default
 
 # About Me
 
-Hello! I am Hyeonmin Amber Lee.  
-My ultimate goal is to contribute on mental health, by improving accessibility of 
-I study computational clinical science and decision-making.
+Hello! I am Hyeonmin Amber Lee, a post-master research assistant in the [Computational Clinical Science Laboratory (CCSL)](https://ccs-lab.github.io/) at [Seoul National University](https://en.snu.ac.kr/index.html).
 
-I received my Master of Arts in Psychology from the [Computational Clinical Science Laboratory (CCSL)](https://ccs-lab.github.io/) in the [Department of Psychology](https://psych.snu.ac.kr/) at [Seoul National University](https://en.snu.ac.kr/index.html), South Korea.
+I investigate how computational mechanisms of decision-making, particularly exploration–exploitation and delay discounting, relate to substance use in naturalistic behavior and daily life.
 
-Now I'm preparing applying the PhD degree for cognition psychology, behavior neuroscience, and clinical psychology. 
+My current work combines computational modeling, immersive behavioral tasks, smartphone-based monitoring data, and clinical measures to identify decision processes associated with alcohol use and nicotine abstinence. I received my M.A. in Clinical Psychology from Seoul National University and am currently preparing to apply to Ph.D. programs in psychology, neuroscience, and related fields.
 
-# Project_Minecraft
+<p class="profile-links">
+  <a href="https://www.linkedin.com/in/hyeonmin-amber-lee" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  <a href="https://x.com/hmamberlee" target="_blank" rel="noopener noreferrer">X</a>
+  <a href="mailto:gusghk5050@snu.ac.kr">Email</a>
+  <a href="/assets/pdf/CV_Hyeonmin_Lee.pdf">CV</a>
+</p>
 
-<img src="{{ '/assets/img/project_minecraft.png' | relative_url }}"
-     alt="Project Minecraft overview"
-     style="width: 400px; max-width: 100%; height: auto; border-radius: 6px; margin: 8px 0 14px 0;">
+## Research Interests
 
-*   Naturalistic decision making paradigm, with abundunt realtime data and more immersive environment
-*   Implemented a 3D version Multi armed bandit task, which contains cost
-*   Investigated how (abstinent/satiated) smokers and healthy control make a balance between exploration and exploitation.
-*   Revealed that abstinent smokers are more exploit biased, and showed distracted attention
+`Computational psychiatry` `Addiction and substance use` `Naturalistic decision-making` `Digital phenotyping` `Personalized interventions`
 
+# Selected Projects
 
-# Project_Coharu
+<div class="project-card">
+  <img src="/assets/img/project_minecraft.png" alt="Minecraft-based naturalistic decision-making task" class="project-img">
 
-<img src="{{ '/assets/img/project_coharu.png' | relative_url }}"
-     alt="Project Coharu overview"
-     style="width: 400px; max-width: 100%; height: auto; border-radius: 6px; margin: 8px 0 14px 0;">
+  <div class="project-text">
+    <h2>Naturalistic Decision-Making in a Minecraft-Based Environment</h2>
+    <p>
+      I developed and analyzed a Minecraft-based 3D multi-armed bandit task designed to examine how nicotine abstinence is associated with value-guided exploration, movement, and decision-making in a naturalistic environment.
+    </p>
+    <p class="project-tags">
+      reinforcement learning · exploration–exploitation · movement cost · nicotine abstinence
+    </p>
+  </div>
+</div>
 
-*   To capture the pattern of alcohol use
-*   Integrated dataset, EMA + passive data (unaware data) + computational markers
-*   Could predict dialy alcohol consumption 
+<div class="project-card">
+  <img src="/assets/img/project_coharu.png" alt="Smartphone-based monitoring study of alcohol use" class="project-img">
+
+  <div class="project-text">
+    <h2>Daily Alcohol Use, Computational Markers, and Digital Phenotyping</h2>
+    <p>
+      I analyze 28-day smartphone-based monitoring data from adults with alcohol use disorder to examine how daily fluctuations in delay discounting and multimodal digital measures relate to nighttime drinking.
+    </p>
+    <p class="project-tags">
+      delay discounting · EMA · passive sensing · alcohol use disorder
+    </p>
+  </div>
+</div>
+
+<div class="project-card">
+  <img src="/assets/img/project_vr.jpeg" alt="VR-assisted group CBT program for social anxiety" class="project-img">
+
+  <div class="project-text">
+    <h2>VR-Assisted Intervention for Social Anxiety</h2>
+    <p>
+      I helped design and administer a 5-week VR-assisted group CBT program for college students with social anxiety, integrating virtual-environment exposure exercises, clinical questionnaires, and wearable-derived heart-rate and heart-rate-variability measures.
+    </p>
+    <p class="project-tags">
+      virtual reality · social anxiety · CBT · wearable physiology
+    </p>
+  </div>
+</div>
