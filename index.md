@@ -10,20 +10,19 @@ I investigate how computational mechanisms of decision-making, particularly expl
 
 My current work combines computational modeling, immersive behavioral tasks, smartphone-based monitoring data, and clinical measures to identify decision processes associated with alcohol use and nicotine abstinence. I received my M.A. in Clinical Psychology from Seoul National University and am currently preparing to apply to Ph.D. programs in psychology, neuroscience, and related fields.
 
-<p class="profile-links">
-  <a href="https://www.linkedin.com/in/hyeonmin-amber-lee" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-  <a href="https://x.com/hmamberlee" target="_blank" rel="noopener noreferrer">X</a>
-  <a href="mailto:gusghk5050@snu.ac.kr">Email</a>
-  <a href="/assets/pdf/CV_Hyeonmin_Lee.pdf">CV</a>
-</p>
-
 ## Research Interests
 
-`Computational psychiatry` `Addiction and substance use` `Naturalistic decision-making` `Digital phenotyping` `Personalized interventions`
+<div class="interest-tags">
+  <span>Computational psychiatry</span>
+  <span>Addiction and substance use</span>
+  <span>Naturalistic decision-making</span>
+  <span>Digital phenotyping</span>
+  <span>Personalized interventions</span>
+</div>
 
 # Selected Projects
 
-<div class="project-card">
+<a class="project-card" href="/projects/minecraft/">
   <img src="/assets/img/project_minecraft.png" alt="Minecraft-based naturalistic decision-making task" class="project-img">
 
   <div class="project-text">
@@ -35,9 +34,9 @@ My current work combines computational modeling, immersive behavioral tasks, sma
       reinforcement learning · exploration–exploitation · movement cost · nicotine abstinence
     </p>
   </div>
-</div>
+</a>
 
-<div class="project-card">
+<a class="project-card" href="/projects/alcohol-digital-phenotyping/">
   <img src="/assets/img/project_coharu.png" alt="Smartphone-based monitoring study of alcohol use" class="project-img">
 
   <div class="project-text">
@@ -49,10 +48,10 @@ My current work combines computational modeling, immersive behavioral tasks, sma
       delay discounting · EMA · passive sensing · alcohol use disorder
     </p>
   </div>
-</div>
+</a>
 
-<div class="project-card">
-  <img src="/assets/img/project_vr.jpeg" alt="VR-assisted group CBT program for social anxiety" class="project-img">
+<a class="project-card" href="/projects/vr-social-anxiety/">
+  <img src="/assets/img/project_vr.png" alt="VR-assisted group CBT program for social anxiety" class="project-img">
 
   <div class="project-text">
     <h2>VR-Assisted Intervention for Social Anxiety</h2>
@@ -63,4 +62,4 @@ My current work combines computational modeling, immersive behavioral tasks, sma
       virtual reality · social anxiety · CBT · wearable physiology
     </p>
   </div>
-</div>
+</a>
