@@ -1,6 +1,7 @@
 ---
 layout: default
 title: VR-Assisted Intervention for Social Anxiety
+permalink: /projects/vr-social-anxiety/
 ---
 
 # VR-Assisted Intervention for Social Anxiety

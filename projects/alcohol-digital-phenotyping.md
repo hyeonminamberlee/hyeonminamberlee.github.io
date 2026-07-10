@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Daily Alcohol Use, Computational Markers, and Digital Phenotyping
+permalink: /projects/alcohol-digital-phenotyping/
 ---
 
 # Daily Alcohol Use, Computational Markers, and Digital Phenotyping

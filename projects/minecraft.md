@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Naturalistic Decision-Making in a Minecraft-Based Environment
+permalink: /projects/minecraft/
 ---
 
 # Naturalistic Decision-Making in a Minecraft-Based Environment
