@@ -4,11 +4,13 @@ layout: default
 
 # About Me
 
-Hello! I am Hyeonmin Amber Lee, a post-master research assistant in the [Computational Clinical Science Laboratory (CCSL)](https://ccs-lab.github.io/) at [Seoul National University](https://en.snu.ac.kr/index.html).
+Hello! I am Hyeonmin (Amber) Lee, a **full-time research assistant** in the [Computational Clinical Science Laboratory (CCSL)](https://ccs-lab.github.io/) at [Seoul National University](https://en.snu.ac.kr/index.html).
 
-I use **computational models, behavioral tasks, and real-world monitoring data** to investigate **decision-making mechanisms relevant to psychopathology**. I am especially interested in how **learning, valuation, exploration, and behavioral control** are shaped by clinically relevant states such as craving, withdrawal, stress, and negative affect.
+I use **computational models, behavioral tasks, neuroimaging, and real-world monitoring data** to investigate **decision-making mechanisms relevant to psychopathology**. I am especially interested in how **learning, valuation, exploration, and behavioral control** are shaped by clinically relevant internal states and environmental contexts.
 
-My current work applies this approach to **alcohol use, nicotine abstinence, naturalistic decision-making, and VR-assisted intervention for social anxiety**. Building on these experiences, I hope to study how **internal states and environmental contexts jointly shape maladaptive decision policies**. Ultimately, I aim to develop computational frameworks that can **measure, simulate, and inform personalized interventions** for maladaptive behavior.
+My current work focuses on **addiction and substance use, naturalistic decision-making, intensive longitudinal measurement, and computational neuroimaging**. I am particularly interested in identifying latent computational and neurobehavioral mechanisms that explain how clinically relevant states alter decision-making across laboratory and real-world contexts.
+
+Ultimately, I aim to leverage these mechanistic insights to develop **computationally informed precision interventions** for maladaptive behavior.
 
 I received my M.A. in Clinical Psychology from Seoul National University and am currently preparing to apply to Ph.D. programs in psychology, neuroscience, and related fields.
 
@@ -19,7 +21,7 @@ I received my M.A. in Clinical Psychology from Seoul National University and am 
   <span>Addiction and substance use</span>
   <span>Naturalistic decision-making</span>
   <span>Digital phenotyping</span>
-  <span>Personalized interventions</span>
+  <span>Precision interventions</span>
 </div>
 
 # Selected Projects
